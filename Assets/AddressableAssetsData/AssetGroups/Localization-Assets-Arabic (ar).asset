@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Arabic (ar)
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Assets-Arabic (ar)
+  m_GUID: b6616b666ed8f464c957ec2e4fd29e73
+  m_SerializeEntries:
+  - m_GUID: 30480bbb685f1d749a6067c5c9402fa7
+    m_Address: "Animaci\xF3n Virus 2D Arabe 1"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 430c9a8758879dc489da0987886cb3e7
+    m_Address: Flag_of_Morocco
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 553c721a6dee13c47af0d44c0d86f183
+    m_Address: SoleteArabeMayores
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 679f709852f4aca4c8a8b640a547598d
+    m_Address: SoleteArabeMenores
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: addf3ddc46d60694abdaf01fa0b8e7d8
+    m_Address: DelfinArabe
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef3941a25026f0f45b5d7b78e12645f6
+    m_Address: SoleteArabeVirus
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3d8ffa244f062b4e8ab3290a8d43673
+    m_Address: Sol_arab 1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ar
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: ed0d826c9fb52834495d99110ae05f62, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c8197235219228a4dae3d486039812f3, type: 2}
+    - {fileID: 11400000, guid: 7f004101b45280e4b893212231914bc4, type: 2}

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Ukrainian (uk)
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Assets-Ukrainian (uk)
+  m_GUID: 9bc4b1d2888e9154b8a203d0445fd230
+  m_SerializeEntries:
+  - m_GUID: 11fdb2fa3843803459c77041618a7ee2
+    m_Address: "Animaci\xF3n Virus 2D Ucraniano 2"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d6e06e0ac55efd4aa51b2e6f113486d
+    m_Address: SoleteUkrVirus
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abf9564c5fd893d45b2880ff921b7c7a
+    m_Address: Flag_of_Ukraine
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: caa048c404e89d04eba8411976fbc14e
+    m_Address: Sol_ukr 1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb1b31cb43b06504cb32d394eca1b109
+    m_Address: SoleteUkrMenores
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: daf4c40c2a8e44749ac7a0053c782102
+    m_Address: SoleteUkrMayores
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee365267f5d811f42992b992c9838c3f
+    m_Address: DelfinUkr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: ed0d826c9fb52834495d99110ae05f62, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2eb8305978808db4184c5b6566b841ad, type: 2}
+    - {fileID: 11400000, guid: a42ce86a83d692140bbf9d473d770b17, type: 2}

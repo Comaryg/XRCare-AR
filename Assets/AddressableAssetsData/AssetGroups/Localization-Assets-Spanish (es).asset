@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Spanish (es)
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Assets-Spanish (es)
+  m_GUID: 5c83c95397a411b44a3b5bf089127c73
+  m_SerializeEntries:
+  - m_GUID: 2a67d612fab5c3e47a126e1943762267
+    m_Address: Vid Animal Inicio Esp
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 309598d63c05a5f4d8fd1c6629c7d302
+    m_Address: Delfin_ES
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 415e6a940505c72438b6db7a01b57708
+    m_Address: SoleteAR_Virus
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a12859f61599d3e4d8991c8fc60780a1
+    m_Address: "Animaci\xF3n Virus 2D Aaron 1"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4a248ce45b33cb45bfc0a1af67cbfb2
+    m_Address: "SoleteAR_Peque\xF1os"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eee796ea546a1094099ba3be1da7e1c4
+    m_Address: spanish
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef799f8670f15d740976c207e8598251
+    m_Address: SoleteAR_Mayores
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: ed0d826c9fb52834495d99110ae05f62, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9720de2b9178abc44b10faf21b37e807, type: 2}
+    - {fileID: 11400000, guid: 35d91bacc5701aa4cb784194c43a4af5, type: 2}

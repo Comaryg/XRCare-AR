@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MenuLabelsFull_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c1aeca8d8075ed14f8fdb18d42b744ea, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13825224704
+    m_Localized: INTRODUCTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657395036160
+    m_Localized: KIDS (6-8 YEARS)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 876107018240
+    m_Localized: PRE-TEEN (9-12 YEARS)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1071288954880
+    m_Localized: START THE ADVENTURE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1228596326400
+    m_Localized: YOU CAN NOW PUT DOWN YOUR TABLET AND GO INTO THE NEXT ROOM. QUICK,
+      THEY NEED YOU!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

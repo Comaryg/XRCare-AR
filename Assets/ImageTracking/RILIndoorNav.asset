@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: RILIndoorNav
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4751526904217319913
+  m_GuidHigh: 9263666352201981590
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5116009750933624806
+      m_GuidHigh: 14965786747346992829
+    m_SerializedTextureGuid:
+      m_GuidLow: 6923318181293281598
+      m_GuidHigh: 5906807610022602152
+    m_Size: {x: 0.17, y: 0.17}
+    m_SpecifySize: 1
+    m_Name: QRCare
+    m_Texture: {fileID: 2800000, guid: 5efd513e91346014a8a5f8c73932f951, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4892732631417229974
+      m_GuidHigh: 6593197886166576534
+    m_SerializedTextureGuid:
+      m_GuidLow: 5603861878274367880
+      m_GuidHigh: 1241153244315218168
+    m_Size: {x: 0.2, y: 0.20022248}
+    m_SpecifySize: 1
+    m_Name: TierraQR
+    m_Texture: {fileID: 2800000, guid: 10e5a188eab04dc4f8703bbf4c763911, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5696659676331154006
+      m_GuidHigh: 15725849040505850017
+    m_SerializedTextureGuid:
+      m_GuidLow: 6716075206604044342
+      m_GuidHigh: 12500389254540776200
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: ABTrack
+    m_Texture: {fileID: 2800000, guid: 2e7138364ad15d340853030fcc4d7aad, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5250738214313565903
+      m_GuidHigh: 7615870617973672103
+    m_SerializedTextureGuid:
+      m_GuidLow: 8886744063797320609
+      m_GuidHigh: 6842799495140807048
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: XRTrack
+    m_Texture: {fileID: 2800000, guid: 5c735ba10ea47b54881117d9e281f65e, type: 3}

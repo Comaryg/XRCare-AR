@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4db626ad063b13545924a9839ac5fa83, type: 3}
+  m_Name: Videos y Audios Full
+  m_EditorClassIdentifier: Unity.Localization.Editor::UnityEditor.Localization.AssetTableCollection
+  m_SharedTableData: {fileID: 11400000, guid: 974f35f3ab00113418b6335b65329733, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 21327274c46ee594ba1957038f74176f, type: 2}
+  - {fileID: 11400000, guid: 1e1f6d136d9ae3e4e9a6f4d5cead9421, type: 2}
+  - {fileID: 11400000, guid: da16ac5a7257b5645af045e767b7532e, type: 2}
+  - {fileID: 11400000, guid: 6384e39cdfab6d14f8246aba9b206a1e, type: 2}
+  m_Extensions: []
+  m_Group: Asset Table
+  references:
+    version: 2
+    RefIds: []
